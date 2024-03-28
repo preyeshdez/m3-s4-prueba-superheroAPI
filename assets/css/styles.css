@@ -1,0 +1,29 @@
+header {
+    height: 50vh;
+    background-image: url(../img/bathrobe-super-cape-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.chartHero {
+    border: 1px solid rgb(187, 187, 187);
+}
+
+#Hero {
+    width: 50%;
+    margin: auto;
+}
+
+#cardHero-img {
+    max-width: 200px;
+}
+
+#statsGraph {
+    max-height: 500px;
+}
+
+#formHero {
+    width: 50%;
+    max-width: 400px;
+    margin-top: 10px;
+}
